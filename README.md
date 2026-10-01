@@ -1,5 +1,5 @@
 # Frontend Mentor - Product preview card component
-
+![Screenshot of the finished product preview card](./screenshot.png) 
 A responsive product preview card built with HTML and CSS as part of a Frontend Mentor challenge.
 
 ## Table of contents
